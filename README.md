@@ -13,9 +13,12 @@ Interactive Percolation visualiser allows user to select the sites in a grid of 
 ![image](https://user-images.githubusercontent.com/51488834/105998508-91d9db00-6061-11eb-88df-1c10caf2b943.png)
 
 
-Percolation Visualizer prompts user to select the size of grid and enter the location of open sites on the basis of 
+Percolation Visualizer prompts user to select the size of grid and enter the location of open sites on the basis of which it locates on the grid.
 
 
+
+
+![image](https://user-images.githubusercontent.com/51488834/105999492-9e126800-6062-11eb-89c2-d7d5af7e5574.png)
 
 
 
