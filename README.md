@@ -17,6 +17,8 @@ Percolation Visualizer prompts user to select the size of grid and enter the loc
 
 
 
+![image](https://user-images.githubusercontent.com/51488834/105999985-2d1f8000-6063-11eb-9424-40cb01852bd6.png)
+
 
 ![image](https://user-images.githubusercontent.com/51488834/105999492-9e126800-6062-11eb-89c2-d7d5af7e5574.png)
 
