@@ -5,4 +5,6 @@ We model a percolation system using an n-by-n grid of sites. Each site is either
 
 
 
+![image](https://user-images.githubusercontent.com/51488834/105997916-fa748800-6060-11eb-9fe3-d9fc2d89dc3b.png)
+
 
