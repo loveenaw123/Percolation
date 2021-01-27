@@ -7,7 +7,13 @@ We model a percolation system using an n-by-n grid of sites. Each site is either
 
 ![image](https://user-images.githubusercontent.com/51488834/105997916-fa748800-6060-11eb-9fe3-d9fc2d89dc3b.png)
 
+
+Interactive Percolation visualiser allows user to select the sites in a grid of 10 X 10 like this
+
 ![image](https://user-images.githubusercontent.com/51488834/105998508-91d9db00-6061-11eb-88df-1c10caf2b943.png)
+
+
+Percolation Visualizer prompts user to select the size of grid and enter the location of open sites on the basis of 
 
 
 
