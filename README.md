@@ -27,6 +27,10 @@ Percolation Visualizer prompts user to select the size of grid and enter the loc
 
 Percolation Stats takes two command-line arguments n and T, performs T independent computational experiments on an n-by-n grid, and prints the sample mean, sample standard deviation, and the 95% confidence interval for the percolation threshold.
 
+![image](https://user-images.githubusercontent.com/51488834/106002899-7f15d500-6066-11eb-98b2-3aa9642d12ad.png)
+
+
+
 
 
 
